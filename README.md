@@ -14,4 +14,6 @@ Once they have chosen a location our application provides a soil overview as wel
 Soil Grids is a system for automated soil mapping based on global compilation of soil profile data and publicly available remote sensing data.
 
 Enjoy! #soil_scientist
+
+
 https://jcobb27.github.io/GardenHub/

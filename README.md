@@ -10,7 +10,7 @@ The user can enter the address of a location that they are interested in startin
 
 Once they have chosen a location our application provides a soil overview as well as a breakdown of the corresponding vegetables and fruits that are most compatible with their soil's properties. The user is also provided with related growing tips for each of the returned vegetables.
 
-![Alt text](images/Capture1)
+![Screenshot](images/Capture1.PNG)
 
 
 # Additional Information
